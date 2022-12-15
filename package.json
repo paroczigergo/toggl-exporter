@@ -1,7 +1,7 @@
 {
   "name": "toggl-exporter",
   "version": "1.0.0",
-  "description": "Export toggle records into google sheet",
+  "description": "Export toggl records into google sheet",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
